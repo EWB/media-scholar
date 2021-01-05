@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '9cb50c83df6e050f123ac89aca27f13f79d88fc3',
+    'reference' => 'be236a1e6a89a94e189f6d0e2c778f844ff2085d',
     'name' => 'drupal/legacy-project',
   ),
   'versions' => 
@@ -78,6 +78,15 @@
       array (
         0 => '9.1.0',
       ),
+    ),
+    'drupal/asset_injector' => 
+    array (
+      'pretty_version' => '2.7.0',
+      'version' => '2.7.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-2.7',
     ),
     'drupal/automated_cron' => 
     array (
@@ -609,7 +618,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '9cb50c83df6e050f123ac89aca27f13f79d88fc3',
+      'reference' => 'be236a1e6a89a94e189f6d0e2c778f844ff2085d',
     ),
     'drupal/link' => 
     array (
