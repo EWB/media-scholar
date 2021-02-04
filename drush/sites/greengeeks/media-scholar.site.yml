@@ -1,0 +1,11 @@
+'live':
+  host: mediascholar.org
+  root: '/home/mediasch/public_html'
+  paths:
+    files: sites/default/files
+    drush-script: /home/mediasch/public_html/vendor/drush/drush/drush
+  uri: mediascholar.org
+  user: mediasch
+  ssh:
+    options: ''
+    tty: false
