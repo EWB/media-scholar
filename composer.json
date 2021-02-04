@@ -23,7 +23,8 @@
         "drupal/core-recommended": "^9.1",
         "drupal/core-vendor-hardening": "^9.1",
         "drupal/layout_builder_styles": "^1.0@beta",
-        "drupal/views_bootstrap": "^4.3"
+        "drupal/views_bootstrap": "^4.3",
+        "drush/drush": "^10.3"
     },
     "conflict": {
         "drupal/drupal": "*"
