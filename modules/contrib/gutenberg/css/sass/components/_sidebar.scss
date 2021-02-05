@@ -1,0 +1,23 @@
+.components-panel__header{
+  &.edit-post-sidebar__panel-tabs{
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+  }
+}
+
+.components-panel__body {
+  &.node-settings-plugin.is-opened {
+    padding: 0;
+
+    .components-panel__body-title {
+      display: none;
+    }
+  }
+}
+
+.entity-meta {
+  border: 0 !important;
+}
